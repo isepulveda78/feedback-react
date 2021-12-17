@@ -1,0 +1,23 @@
+{
+  "name": "ReplitReactjsProject",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@m-fe/react-commons": "0.0.16",
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "@vitejs/plugin-react-refresh": "^1.3.0",
+    "jsx": "^0.9.89",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "vite": "^2.3.8"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
